@@ -1,5 +1,0 @@
-LINK TO TAKE INTO ACCOUT( BATTERY LIFE CONCERNS / TP4056 MODULE INFO)
-https://www.best-microcontroller-projects.com/tp4056.ht
-
-TP4056 MODULE IMPROVEMENTS
-https://www.instructables.com/id/DIY-LiPo-ChargeProtect5V-Boost-Circuit/
