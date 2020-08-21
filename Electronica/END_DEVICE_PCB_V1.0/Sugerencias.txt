@@ -37,6 +37,10 @@ The filter works on specifics of this particular size of ceramic caps.
 These caps have an impedance of capacitive type at frequencies up to 10-20MHz (so a 50ns pulse gets well-coupled with ground plane and dissipates in power supplies)
 , but at frequencies above 50MHz it becomes an inductor, so if provides a good de-coupling of cable shield from the noisy digital ground.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+CH340G 
+El fabricante recomienda un cristal con FOSC de 12MHz sin embargo el arduino nano tiene uno de 20MHZ y
+funciona correctamente. 
 
 
 
