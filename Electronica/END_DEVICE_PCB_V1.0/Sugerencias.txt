@@ -56,3 +56,11 @@ SOBRE EL EMI
 investigue del tema, toca mirar bien la frecuencia que vamos a usar, espero hacer pruebas para confirmar la interferencia y que tanto afecta los datos. Cabe resaltar que la idea de david de poner un filtro rc entre la antena y el dispositivo para filtrar la interferencia es buena idea usando los valores proporcionados.
 USO DE CONECTORES TERMINAL BOX, MOLEX O HEADERS.
 en conclusion con david por tamaño de la tarjeta no se peude usar terminal box. por otro lado luego de hacer pruebas iniciales en tarjetas artesanales, es bueno revisar que tipo de conector vamos a usar entre los propuestos para tener conexiones rapidas internas dentro del modulo ya que es preferible que tener cables soldados de tarjeta a tarjeta. 
+paginas donde podemos conseguir
+https://www.vistronica.com/conectores-cables-y-switches/terminal-de-bloque-enchufable-5-08mm-verde-6p-detail.html?gclid=Cj0KCQjw4f35BRDBARIsAPePBHyJI3tF7NyK7vqxmX1o2P7AoXoZo7rQtve_RQY6UnmHE_2gCd7LT_oaAgtLEALw_wcB
+---
+https://www.sigmaelectronica.net/categoria-producto/conectores/conectores-molex/
+https://www.vistronica.com/#q=molex&from_user=&page=0&refinements=%5B%5D&numerics_refinements=%7B%7D&index_name=%22prestashop1763_all_es%22
+-------------------------------------------
+falta diseño para tarjeta para modulo xbee.
+---------------------------------------------------------------------------------
